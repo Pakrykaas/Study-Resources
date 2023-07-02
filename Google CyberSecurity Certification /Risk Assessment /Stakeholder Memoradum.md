@@ -2,9 +2,12 @@
 
 # Stakeholder Memorandum 
 
->TO: IT Manager, CTO, CISO, Stakeholders 
+>TO: IT Manager, CTO, CISO, Stakeholders
+
 >FROM: John Wayne
+
 >DATE: 06/06/2026 
+
 >SUBJECT: Internal risk assessment findings and recommendations 
 
 **Dear responsible team,** 
