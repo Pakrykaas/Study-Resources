@@ -1,4 +1,8 @@
+Links for documentation:
 
+PDF: https://drive.google.com/file/d/1aSsaJMB0Yp-W5W4BHmerp84PjaKTtutF/view?usp=sharing
+
+DOCX: https://drive.google.com/file/d/1bx-WO7TTItBhJPcZO9G-FZgDMo23yW5Z/view?usp=sharing
 
 # Stakeholder Memorandum 
 
