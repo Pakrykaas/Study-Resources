@@ -12,7 +12,7 @@ The FERC-NERC regulation applies to organizations that work with electricity or 
 Organizations have an obligation to prepare for, mitigate, and report any potential security incident that can negatively affect the power grid. Organizations are legally required to adhere to the 
 Critical Infrastructure Protection Reliability Standards (CIP) defined by the FERC.
 
-**Explanation:** *Botium does need to comply with FERC-NERC since their main factory has privileged electrical infrastructure, served directly by a nuclear plant.*
+>**Explanation:** *Botium does need to comply with FERC-NERC since their main factory has privileged electrical infrastructure, served directly by a nuclear plant.*
 
 
 ### General Data Protection Regulation (GDPR)
