@@ -23,13 +23,21 @@ Please review the following information regarding the Botium Toys internal audit
 The following domains are in scope: 
 
 ● Business Continuity Plan; 
+
 ● Intrusion detection system; 
+
 ● SIEM tool; 
+
 ● Access controls; 
+
 ● Identification, Authentication, Authorization, Accountability; 
+
 ● Training and awareness; 
+
 ● Laws and regulations; 
+
 ● Asset security and logging; 
+
 ● Network security; 
 
 The systems will be evaluated for: 
