@@ -30,4 +30,36 @@ In this scenario, the scope is defined as the entire security program at *Botium
 
 Creation of outcomes aiming to achieve compliance, identify weaknesses and vulnerabilities within the organization, and understanding processes and procedures failure looking forward to correcting them.
 
-####
+#### Control Assessment
+
+**(Tables still not available in markdown, please address to the links)**
+
+This list helps creating a qualitative analysis of the actual controls we have, describing their **category**, **type**, **name**, and **purpose** in order to introduce individuals to the different tools used to assure safety and well being while also setting a checklist avoiding leaving any control out of the test.
+
+#### Compliance Checklist
+
+**(In order to access the interactive checklist please address to the links)**
+
+Here is displayed a checklist with different laws and regulations, the goal is to understand which ones fit in this line of business and assessing if the organization is in compliance. A simple and effective way to test our legal posture.
+
+#### Stakeholder Memorandum
+
+A document addressing to the main organs of the organization who take part in setting applying and aproving changes.
+
+Since many times these will be people with different backgrounds the languange used has to be direct and simple.
+
+This document is divided in **4** parts:
+
+- Scope;
+- Goals;
+- Critical Findings;
+- Findings;
+
+The **Scope** introduces the stakeholders and the dedicated team to what will be tested providing introduction to core concepts.
+
+The **Goals** will present the porpuse of the assessment, in this case a general assessment testing the overall position of the company.
+
+The **Critical Findings** list the controls which either are not present or need an urgent update or configuration in order to fullfil its porpuse. These must be adressed ASAP, their current posture poses a vulnerablity for the organization.
+
+The **Findings** list complement the *Critical Findings* list. Its the leftover of the controls which need an improvement in order to fully address its tasks. These are non urgent changes needed. 
+
