@@ -1,3 +1,9 @@
+Links for documentation:
+
+PDF: https://drive.google.com/file/d/12mI90vF5N7vPP8T_WklA00CJA6DhzD4s/view?usp=sharing
+
+DOCX: https://drive.google.com/file/d/1uuym9nYn_xj7fdEvX4rphUcDr4UGMTXf/view?usp=sharing
+
 # Compliance Checklist
 
 ### The Federal Energy Regulatory Commission - North American Electric Reliability Corporation (FERC-NERC)
