@@ -4,7 +4,9 @@ PDF: https://drive.google.com/file/d/1kqWe466LtAdAknCbX65MWsb10yB8nCi-/view?usp=
 
 DOCX: https://docs.google.com/document/d/1icFna_s0immlq9SGPyEl-brXSdmCXxLt/edit?usp=sharing&ouid=101534751489465987306&rtpof=true&sd=true
 
-# Control categories
+# Control Assessment
+
+## Control categories
 
 Controls within cybersecurity are grouped into three main categories:
 
@@ -26,22 +28,26 @@ ways to meet organizational goals and objectives.
 
 Include door locks, cabinet locks, surveillance cameras, badge readers, etc. They are used to limit physical access to physical assets by unauthorized personnel.
 
-Control types
+## Control types
 
 There are **five** types of controls:
 
-1. Preventative
-2. Corrective
-3. Detective
-4. Deterrent
-5. Compensating
+- Preventative
+- Corrective
+- Detective
+- Deterrent
+- Compensating
 
 These controls work together to provide defense in depth and protect assets. 
 
-- Preventative controls are designed to prevent an incident from occurring in the first place. 
-- Corrective controls are used to restore an asset after an incident. 
-- Detective controls are implemented to determine whether an incident has occurred or is in progress. 
-- Deterrent controls are designed to discourage attacks. 
-- Compensating controls are used to fortify the security of an asset when the current controls aren’t enough to adequately protect the asset.
+- **Preventative** controls are designed to prevent an incident from occurring in the first place.
+  
+- **Corrective** controls are used to restore an asset after an incident.
+  
+- **Detective** controls are implemented to determine whether an incident has occurred or is in progress.
+  
+- **Deterrent** controls are designed to discourage attacks.
+  
+- **Compensating** controls are used to fortify the security of an asset when the current controls aren’t enough to adequately protect the asset.
 
 To review the following charts please refer to the links above.
