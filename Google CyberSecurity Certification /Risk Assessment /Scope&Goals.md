@@ -16,7 +16,7 @@ posture of the organization.
 
 The audit team will document their findings, provide remediation plans and efforts, and communicate with stakeholders. 
 
-  **Scope:** 
+  #### Scope: 
 
   Note that the scope is not constant from audit to audit. However, once the scope of the audit is clearly defined, only items within scope should be audited. In this scenario, the scope is defined as
   the entire security program at Botium Toys. This means all assets need to be assessed alongside internal processes and procedures. 
@@ -29,7 +29,7 @@ Botium Toys internal IT audit will assess the following:
   ● Ensure current user permissions, controls, procedures, and protocols in place align with necessary compliance requirements. 
   ● Ensure current technology is accounted for. Both hardware and system access.
 
-  **Goals:** 
+  #### Goals:
 
   Deliverables or outcomes creation aiming to achieve compliance, identify weaknesses and vulnerabilities within the organization, and understanding processes and procedures failure looking forward to 
   correcting them. 
