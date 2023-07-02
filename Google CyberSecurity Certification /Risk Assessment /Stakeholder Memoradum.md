@@ -64,7 +64,7 @@ Multiple controls need to be developed and implemented to meet the audit goals, 
 
 Policies need to be developed and implemented to meet PCI DSS and GDPR compliance requirements. 
 
-## Findings *(no immediate addressing need):* 
+## Findings *(no immediate addressing needed):* 
 
 The following controls should be implemented when possible: 
 
