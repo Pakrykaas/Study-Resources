@@ -23,21 +23,13 @@ Please review the following information regarding the Botium Toys internal audit
 The following domains are in scope: 
 
 ● Business Continuity Plan; 
-
 ● Intrusion detection system; 
-
 ● SIEM tool; 
-
 ● Access controls; 
-
 ● Identification, Authentication, Authorization, Accountability; 
-
 ● Training and awareness; 
-
 ● Laws and regulations; 
-
 ● Asset security and logging; 
-
 ● Network security; 
 
 The systems will be evaluated for: 
@@ -53,20 +45,20 @@ technologies are accounted for both hardware and system access.
 
 ● NIST CSF compliance. 
 ● Creation of policies to ensure system compliance. 
-● Upgrade controls systems. 
-● Establish policies and procedures, which includes playbooks with detailed steps. 
+● Upgrade controls systems.
+● Establish policies and procedures, which includes playbooks with detailed steps.
 ● Ensure the company meets compliance requirements. 
 
 ## Critical findings *(must be addressed immediately):* 
 
 Multiple controls need to be developed and implemented to meet the audit goals, including: 
 
-● Disaster recovery plans; 
+● Disaster recovery plans;
 ● Encryption (for secure website transactions); 
 ● IDS; 
 ● Backups; 
-● CCTV; 
-● Locks; 
+● CCTV;
+● Locks;
 ● Manual monitoring, maintenance, and intervention for legacy systems; 
 ● Fire detection and prevention systems; 
 Policies need to be developed and implemented to meet PCI DSS and GDPR compliance requirements. 
