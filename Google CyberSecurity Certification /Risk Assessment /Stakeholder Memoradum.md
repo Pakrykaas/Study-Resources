@@ -22,57 +22,58 @@ Please review the following information regarding the Botium Toys internal audit
 
 The following domains are in scope: 
 
-● Business Continuity Plan; 
-● Intrusion detection system; 
-● SIEM tool; 
-● Access controls; 
-● Identification, Authentication, Authorization, Accountability; 
-● Training and awareness; 
-● Laws and regulations; 
-● Asset security and logging; 
-● Network security; 
+- Business Continuity Plan; 
+- Intrusion detection system; 
+-SIEM tool; 
+- Access controls; 
+- Identification, Authentication, Authorization, Accountability; 
+- Training and awareness; 
+- Laws and regulations; 
+- Asset security and logging; 
+- Network security; 
 
 The systems will be evaluated for: 
 
-● Current user permissions 
-● Current implemented controls 
-● Current procedures and protocols 
+- Current user permissions 
+- Current implemented controls 
+- Current procedures and protocols 
 
 This audit is designed to ensure that current user permissions, controls, procedures, and protocols are in place and align with PCI DSS and GDPR compliance requirements, as well as proving current
 technologies are accounted for both hardware and system access. 
 
 ## Goals: 
 
-● NIST CSF compliance. 
-● Creation of policies to ensure system compliance. 
-● Upgrade controls systems.
-● Establish policies and procedures, which includes playbooks with detailed steps.
-● Ensure the company meets compliance requirements. 
+- NIST CSF compliance. 
+- Creation of policies to ensure system compliance. 
+- Upgrade controls systems.
+-  Establish policies and procedures, which includes playbooks with detailed steps.
+- Ensure the company meets compliance requirements. 
 
 ## Critical findings *(must be addressed immediately):* 
 
 Multiple controls need to be developed and implemented to meet the audit goals, including: 
 
-● Disaster recovery plans;
-● Encryption (for secure website transactions); 
-● IDS; 
-● Backups; 
-● CCTV;
-● Locks;
-● Manual monitoring, maintenance, and intervention for legacy systems; 
-● Fire detection and prevention systems; 
+- Disaster recovery plans;
+- Encryption (for secure website transactions); 
+- IDS; 
+- Backups; 
+- CCTV;
+- Locks;
+- Manual monitoring, maintenance, and intervention for legacy systems; 
+- Fire detection and prevention systems; 
+
 Policies need to be developed and implemented to meet PCI DSS and GDPR compliance requirements. 
 
 ## Findings *(no immediate addressing need):* 
 
 The following controls should be implemented when possible: 
 
-● NAC; 
-● Adequate lighting;
-● Locking cabinets; 
-● Signage indicating alarm service provider; 
-● Least privilege; 
-● Summary/Recommendations: 
+- NAC; 
+- Adequate lighting;
+- Locking cabinets; 
+- Signage indicating alarm service provider; 
+- Least privilege; 
+- Summary/Recommendations: 
 
 It is recommended that critical findings regarding compliance with PCI DSS and GDPR be promptly addressed since Botium Toys accepts online payments from customers worldwide, including the E.U. 
 
