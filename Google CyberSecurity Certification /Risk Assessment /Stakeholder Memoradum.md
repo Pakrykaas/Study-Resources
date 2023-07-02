@@ -49,7 +49,7 @@ technologies are accounted for both hardware and system access.
 ● Establish policies and procedures, which includes playbooks with detailed steps. 
 ● Ensure the company meets compliance requirements. 
 
-**Critical findings** *(must be addressed immediately):* 
+## Critical findings *(must be addressed immediately):* 
 
 Multiple controls need to be developed and implemented to meet the audit goals, including: 
 
@@ -63,7 +63,7 @@ Multiple controls need to be developed and implemented to meet the audit goals, 
 ● Fire detection and prevention systems; 
 Policies need to be developed and implemented to meet PCI DSS and GDPR compliance requirements. 
 
-**Findings** *(no immediate addressing need):* 
+## Findings *(no immediate addressing need):* 
 
 The following controls should be implemented when possible: 
 
