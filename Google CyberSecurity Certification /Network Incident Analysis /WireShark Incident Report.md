@@ -2,7 +2,7 @@ Links for documentation:
 
 PDF: https://drive.google.com/file/d/1YXff8oi0YFruoURjhfvtOscPdhjVjr_D/view?usp=sharing
 
-DOCX: https://drive.google.com/file/d/1O2lkUU6sy2iWLafKqCCfgIw7w8aAW3kX/view?usp=sharing
+DOCX: https://docs.google.com/document/d/1Fb3VHQVabDRgTfy0CnDHuj_z424sfu2cKyLGY4bSIos/edit?usp=sharing
 
 # Cybersecurity Incident Report - Network Traffic Analysis
 
