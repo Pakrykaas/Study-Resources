@@ -3,6 +3,7 @@ Links for documentation:
 PDF: https://drive.google.com/file/d/1-Ty5qSaB-pdnxa-BOqv2nIX1gYUNEFsB/view?usp=sharing
 
 DOCX: https://docs.google.com/document/d/1i3EZIlgniDwFO3zWKN9MpMskLo9Bn78hBvrPMxp1BQk/edit?usp=sharing
+
 # Cybersecurity Incident Report
 
 ## DNS and ICMP Log File
