@@ -11,6 +11,8 @@ Each document will be writen in markdown adding links for PDF and Google Docx in
 1. Risk Assessment;
 2. Network Incident Analysis;
 3. Network Hardenning Tools;
+4. Linux Basics;
+5. SQL Basics;
 
 ### Risk Assessment
 
@@ -63,3 +65,26 @@ The **Critical Findings** list the controls which either are not present or need
 
 The **Findings** list complement the *Critical Findings* list. Its the leftover of the controls which need an improvement in order to fully address its tasks. These are non urgent changes needed. 
 
+### Network Incident Analysis
+
+#### DNS & ICMP Incident Report
+
+A company recieves the information of its web page lack of reponse. In order to understand what is the issue a Security Analyst tries to connect to the website and analyses the log files  which result from this acction.
+
+The ICMP request starts from the client machine, yet no answer is given by the web server. 
+
+The analyst has to conduct an investigation as well as a detailed report.
+
+#### Wireshark Incident Report
+
+**(Log still not available in markdown, please address to the links)**
+
+Starting on the last fase of the last action, the analyst will now verify log documentation of all the movement caught on WireShark in order to unsderstand exactly what type of actions are being taken by third parties towards this server.
+
+There is not yet a step by step explanation on how to analyse such log.
+
+#### DNS & HTTP Incident Report
+
+A disgrunted employee manages to access the website of its previous ex employeer and redirects all the clients traffic to a malicious web site which downloads all the payed products on its ex employeer's website.
+
+The Security Analyst's duty in this case is to understand the whole process taken by the threat actor, analysing all the data in a sandbox in order to create countermesaures to stop this and avoid future attacks.
