@@ -8,6 +8,8 @@ DOCX: https://drive.google.com/file/d/1O2lkUU6sy2iWLafKqCCfgIw7w8aAW3kX/view?usp
 
 ## Network Traffic Analysis - WireShark
 
+> In order to access the log, please refer to the links above.
+
 ### Part 1: 
 
 **Identify the type of attack that may have caused this network interruption**
