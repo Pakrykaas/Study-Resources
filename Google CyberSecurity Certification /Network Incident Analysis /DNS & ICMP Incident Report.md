@@ -2,7 +2,7 @@ Links for documentation:
 
 PDF: https://drive.google.com/file/d/1-Ty5qSaB-pdnxa-BOqv2nIX1gYUNEFsB/view?usp=sharing
 
-DOCX: https://drive.google.com/file/d/1dC9x26Bk05_t47bzeZFc4cHLiUNtWKVE/view?usp=sharing
+DOCX: https://drive.google.com/file/d/1TU1uXOZgNEW4FKBrjxkgORnacwMU2Lik/view?usp=sharing
 
 # Cybersecurity Incident Report
 
