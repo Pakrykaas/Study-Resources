@@ -1,5 +1,6 @@
 # Hello and Welcome!
-Here I will make sure to share all my knowledge regarding the different areas I dedicate myself to study.
+
+Here I will all my knowledge regarding the different areas I dedicate myself to study.
 
 From course notes and diagrams to opinions and book quotes, anything that impacts my perception of the cyber realm will have it's dedicated place here.
 
