@@ -69,8 +69,17 @@ Used in the the end of the query to sign it is finished.
 For the next examples please refer to the following tables: 
 
 
-Table 1 - log_in_attempts 
-Table 2 - employees 
+**Table 1 ** - *log_in_attempts* 
+
+---------------------------------------------------------------------
+| event_id | username | login_name | country | ip_address | success | 
+---------------------------------------------------------------------
+
+**Table 2**  - *employees*
+
+------------------------------------------------------------
+| employee_id | device_id | username | department | office |
+------------------------------------------------------------
 
 **Retrieving after hours** - *Table 1* 
 
