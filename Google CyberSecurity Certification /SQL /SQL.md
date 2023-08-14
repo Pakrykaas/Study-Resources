@@ -127,6 +127,6 @@ Online exercises are recommended, try to practice it every week, even if only fo
 
 ## Exercises
 
-**Wise Owl** - https://www.wiseowl.co.uk/sql/exercises/standard/
-**Learn SQL** - https://www.sql-practice.com/
-**Pracity** - https://practity.com/sql-3/
+- **Wise Owl** - https://www.wiseowl.co.uk/sql/exercises/standard/
+- **Learn SQL** - https://www.sql-practice.com/
+- **Pracity** - https://practity.com/sql-3/
