@@ -130,3 +130,6 @@ Online exercises are recommended, try to practice it every week, even if only fo
 - **Wise Owl** - https://www.wiseowl.co.uk/sql/exercises/standard/
 - **Learn SQL** - https://www.sql-practice.com/
 - **Pracity** - https://practity.com/sql-3/
+- **SQL Island** - https://sql-island.informatik.uni-kl.de/
+- **SQL Police Department** - https://sqlpd.com/
+- **SQL Murder Mistery** - https://mystery.knightlab.com/
